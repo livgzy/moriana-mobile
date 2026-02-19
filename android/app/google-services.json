@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18347375518",
+    "project_id": "moriana-mobile",
+    "storage_bucket": "moriana-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18347375518:android:305f654f19c6552735348f",
+        "android_client_info": {
+          "package_name": "com.example.moriana_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFKfU0yH0SHWZRY_2CXE6m2hchKRZARA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
